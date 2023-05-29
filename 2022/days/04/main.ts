@@ -51,6 +51,9 @@ const file = readFileSync('input.txt', 'utf-8')
 let accPartOne: number = 0
 let accPartTwo: number = 0
 file.split('\n').forEach(pair => {
+    if(pair === ''){
+        return
+    }
     let p = pair.split(',')
     p[1] = p[1].replace("\r","")
 
