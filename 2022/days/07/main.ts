@@ -103,11 +103,11 @@ function computeSize(entityName: string) {
 
 // main
 let path: string[] = ['/']
-let structure: Map<string, fileNode> = new Map<string, fileNode>()
+let structure: Map<string, fileNode> = new Map<string, fileNode>([['/', new fileNode([])]])
 
 const file = readFileSync('input.txt', 'utf-8')
 
-structure.set('/', new fileNode([],))
+// structure.set('/', new fileNode([]))
 
 file.split('\n').forEach(line => {
     line = line.replace("\r", "")
@@ -161,6 +161,9 @@ const partOneMaxSize = 100000
 
 const capacity = 70000000
 const updateSpace = 30000000
+if(!structure.has('/')){
+    throw new Error("Missing root element");    
+}
 let usedSpace = structure.get('/').size
 
 let toFree = updateSpace - (capacity - usedSpace)
@@ -172,9 +175,9 @@ structure.forEach(element => {
         accPartOne += element.size
     }
 
-    if (element.type == 'Directory' && element.size <partTwoCandidate && element.size >=  toFree){
-        partTwoCandidate=element.size
+    if (element.type == 'Directory' && element.size < partTwoCandidate && element.size >= toFree) {
+        partTwoCandidate = element.size
     }
 });
 
-console.log(accPartOne,partTwoCandidate)
+console.log(accPartOne, partTwoCandidate)
