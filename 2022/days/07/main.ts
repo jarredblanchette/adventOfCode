@@ -107,8 +107,6 @@ let structure: Map<string, fileNode> = new Map<string, fileNode>([['/', new file
 
 const file = readFileSync('input.txt', 'utf-8')
 
-// structure.set('/', new fileNode([]))
-
 file.split('\n').forEach(line => {
     line = line.replace("\r", "")
     let [lineType, matches]: [TerminalLineType | null, RegExpMatchArray | null] = parseLineType(line)
@@ -156,18 +154,23 @@ file.split('\n').forEach(line => {
 })
 
 computeSize('/')
-let accPartOne = 0
-const partOneMaxSize = 100000
+let accPartOne: number = 0
+const partOneMaxSize: number = 100000
 
-const capacity = 70000000
-const updateSpace = 30000000
-if(!structure.has('/')){
-    throw new Error("Missing root element");    
+const capacity: number = 70000000
+const updateSpace: number = 30000000
+
+let usedSpace: number
+let root: fileNode | undefined = structure.get('/');
+
+if (root !== undefined) {
+    usedSpace = root.size;
+} else {
+    throw new Error("Missing root node in structure");
 }
-let usedSpace = structure.get('/').size
 
-let toFree = updateSpace - (capacity - usedSpace)
-let partTwoCandidate = usedSpace
+let toFree: number = updateSpace - (capacity - usedSpace)
+let partTwoCandidate: number = usedSpace
 
 structure.forEach(element => {
 
