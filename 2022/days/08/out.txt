@@ -1,0 +1,155 @@
+in direction 0 I can see 0 from [],[]
+in direction 1 I can see 2 from [0, 3, 7, 3],[True, False, False, False]
+in direction 2 I can see 0 from [],[]
+in direction 3 I can see 2 from [2, 6, 3, 3],[True, False, False, False]
+3 at (0, 0) can see a productwise total of 0
+
+in direction 0 I can see 1 from [3],[False]
+in direction 1 I can see 1 from [3, 7, 3],[False, False, False]
+in direction 2 I can see 0 from [],[]
+in direction 3 I can see 1 from [5, 5, 3, 5],[False, False, False, False]
+0 at (1, 0) can see a productwise total of 0
+
+in direction 0 I can see 2 from [0, 3],[True, False]
+in direction 1 I can see 1 from [7, 3],[False, False]
+in direction 2 I can see 0 from [],[]
+in direction 3 I can see 1 from [5, 3, 5, 3],[False, False, False, False]
+3 at (2, 0) can see a productwise total of 0
+
+in direction 0 I can see 3 from [3, 0, 3],[True, True, True]
+in direction 1 I can see 1 from [3],[True]
+in direction 2 I can see 0 from [],[]
+in direction 3 I can see 4 from [1, 3, 4, 9],[True, True, True, False]
+7 at (3, 0) can see a productwise total of 0
+
+in direction 0 I can see 1 from [7, 3, 0, 3],[False, False, True, False]
+in direction 1 I can see 0 from [],[]
+in direction 2 I can see 0 from [],[]
+in direction 3 I can see 3 from [2, 2, 9, 0],[True, True, False, True]
+3 at (4, 0) can see a productwise total of 0
+
+in direction 0 I can see 0 from [],[]
+in direction 1 I can see 1 from [5, 5, 1, 2],[False, False, True, False]
+in direction 2 I can see 1 from [3],[False]
+in direction 3 I can see 1 from [6, 3, 3],[False, False, False]
+2 at (0, 1) can see a productwise total of 0
+
+in direction 0 I can see 1 from [2],[True]
+in direction 1 I can see 1 from [5, 1, 2],[False, True, True]
+in direction 2 I can see 1 from [0],[True]
+in direction 3 I can see 1 from [5, 3, 5],[False, True, False]
+5 at (1, 1) can see a productwise total of 1
+new best tree! 5 at (1, 1) beats 0
+
+in direction 0 I can see 1 from [5, 2],[False, True]
+in direction 1 I can see 2 from [1, 2],[True, True]
+in direction 2 I can see 1 from [3],[True]
+in direction 3 I can see 2 from [3, 5, 3],[True, False, True]
+5 at (2, 1) can see a productwise total of 4
+new best tree! 5 at (2, 1) beats 1
+
+in direction 0 I can see 1 from [5, 5, 2],[False, False, False]
+in direction 1 I can see 1 from [2],[False]
+in direction 2 I can see 1 from [7],[False]
+in direction 3 I can see 1 from [3, 4, 9],[False, False, False]
+1 at (3, 1) can see a productwise total of 1
+
+in direction 0 I can see 2 from [1, 5, 5, 2],[True, False, False, False]
+in direction 1 I can see 0 from [],[]
+in direction 2 I can see 1 from [3],[False]
+in direction 3 I can see 1 from [2, 9, 0],[False, False, True]
+2 at (4, 1) can see a productwise total of 0
+
+in direction 0 I can see 0 from [],[]
+in direction 1 I can see 4 from [5, 3, 3, 2],[True, True, True, True]
+in direction 2 I can see 2 from [2, 3],[True, True]
+in direction 3 I can see 2 from [3, 3],[True, True]
+6 at (0, 2) can see a productwise total of 0
+
+in direction 0 I can see 1 from [6],[False]
+in direction 1 I can see 3 from [3, 3, 2],[True, True, True]
+in direction 2 I can see 1 from [5, 0],[False, True]
+in direction 3 I can see 2 from [3, 5],[True, False]
+5 at (1, 2) can see a productwise total of 6
+new best tree! 5 at (1, 2) beats 4
+
+in direction 0 I can see 1 from [5, 6],[False, False]
+in direction 1 I can see 1 from [3, 2],[False, True]
+in direction 2 I can see 1 from [5, 3],[False, False]
+in direction 3 I can see 1 from [5, 3],[False, False]
+3 at (2, 2) can see a productwise total of 1
+
+in direction 0 I can see 1 from [3, 5, 6],[False, False, False]
+in direction 1 I can see 1 from [2],[True]
+in direction 2 I can see 2 from [1, 7],[True, False]
+in direction 3 I can see 1 from [4, 9],[False, False]
+3 at (3, 2) can see a productwise total of 2
+
+in direction 0 I can see 1 from [3, 3, 5, 6],[False, False, False, False]
+in direction 1 I can see 0 from [],[]
+in direction 2 I can see 1 from [2, 3],[False, False]
+in direction 3 I can see 1 from [9, 0],[False, True]
+2 at (4, 2) can see a productwise total of 0
+
+in direction 0 I can see 0 from [],[]
+in direction 1 I can see 1 from [3, 5, 4, 9],[False, False, False, False]
+in direction 2 I can see 1 from [6, 2, 3],[False, True, False]
+in direction 3 I can see 1 from [3],[False]
+3 at (0, 3) can see a productwise total of 0
+
+in direction 0 I can see 1 from [3],[False]
+in direction 1 I can see 1 from [5, 4, 9],[False, False, False]
+in direction 2 I can see 1 from [5, 5, 0],[False, False, True]
+in direction 3 I can see 1 from [5],[False]
+3 at (1, 3) can see a productwise total of 1
+
+in direction 0 I can see 2 from [3, 3],[True, True]
+in direction 1 I can see 2 from [4, 9],[True, False]
+in direction 2 I can see 2 from [3, 5, 3],[True, False, True]
+in direction 3 I can see 1 from [3],[True]
+5 at (2, 3) can see a productwise total of 8
+new best tree! 5 at (2, 3) beats 6
+
+in direction 0 I can see 1 from [5, 3, 3],[False, True, True]
+in direction 1 I can see 1 from [9],[False]
+in direction 2 I can see 3 from [3, 1, 7],[True, True, False]
+in direction 3 I can see 1 from [9],[False]
+4 at (3, 3) can see a productwise total of 3
+
+in direction 0 I can see 4 from [4, 5, 3, 3],[True, True, True, True]
+in direction 1 I can see 0 from [],[]
+in direction 2 I can see 3 from [2, 2, 3],[True, True, True]
+in direction 3 I can see 1 from [0],[True]
+9 at (4, 3) can see a productwise total of 0
+
+in direction 0 I can see 0 from [],[]
+in direction 1 I can see 1 from [5, 3, 9, 0],[False, False, False, True]
+in direction 2 I can see 1 from [3, 6, 2, 3],[False, False, True, False]
+in direction 3 I can see 0 from [],[]
+3 at (0, 4) can see a productwise total of 0
+
+in direction 0 I can see 1 from [3],[True]
+in direction 1 I can see 2 from [3, 9, 0],[True, False, True]
+in direction 2 I can see 2 from [3, 5, 5, 0],[True, False, False, True]
+in direction 3 I can see 0 from [],[]
+5 at (1, 4) can see a productwise total of 0
+
+in direction 0 I can see 1 from [5, 3],[False, False]
+in direction 1 I can see 1 from [9, 0],[False, True]
+in direction 2 I can see 1 from [5, 3, 5, 3],[False, False, False, False]
+in direction 3 I can see 0 from [],[]
+3 at (2, 4) can see a productwise total of 0
+
+in direction 0 I can see 3 from [3, 5, 3],[True, True, True]
+in direction 1 I can see 1 from [0],[True]
+in direction 2 I can see 4 from [4, 3, 1, 7],[True, True, True, True]
+in direction 3 I can see 0 from [],[]
+9 at (3, 4) can see a productwise total of 0
+
+in direction 0 I can see 1 from [9, 3, 5, 3],[False, False, False, False]
+in direction 1 I can see 0 from [],[]
+in direction 2 I can see 1 from [9, 2, 2, 3],[False, False, False, False]
+in direction 3 I can see 0 from [],[]
+0 at (4, 4) can see a productwise total of 0
+
+21 8
