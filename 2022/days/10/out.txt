@@ -1,0 +1,299 @@
+The clock says: 1
+addX, adding 15 to regx to result in 16
+The clock says: 3
+addX, adding -11 to regx to result in 5
+The clock says: 5
+addX, adding 6 to regx to result in 11
+The clock says: 7
+addX, adding -3 to regx to result in 8
+The clock says: 9
+addX, adding 5 to regx to result in 13
+The clock says: 11
+addX, adding -1 to regx to result in 12
+The clock says: 13
+addX, adding -8 to regx to result in 4
+The clock says: 15
+addX, adding 13 to regx to result in 17
+The clock says: 17
+addX, adding 4 to regx to result in 21
+The clock says: 19
+noop, sleeping
+The clock says: 20
+that is a time we care about! Adding 21*20=420 to 0 to get 420
+addX, adding -1 to regx to result in 20
+The clock says: 22
+addX, adding 5 to regx to result in 25
+The clock says: 24
+addX, adding -1 to regx to result in 24
+The clock says: 26
+addX, adding 5 to regx to result in 29
+The clock says: 28
+addX, adding -1 to regx to result in 28
+The clock says: 30
+addX, adding 5 to regx to result in 33
+The clock says: 32
+addX, adding -1 to regx to result in 32
+The clock says: 34
+addX, adding 5 to regx to result in 37
+The clock says: 36
+addX, adding -1 to regx to result in 36
+The clock says: 38
+addX, adding -35 to regx to result in 1
+The clock says: 40
+addX, adding 1 to regx to result in 2
+The clock says: 42
+addX, adding 24 to regx to result in 26
+The clock says: 44
+addX, adding -19 to regx to result in 7
+The clock says: 46
+addX, adding 1 to regx to result in 8
+The clock says: 48
+addX, adding 16 to regx to result in 24
+The clock says: 50
+addX, adding -11 to regx to result in 13
+The clock says: 52
+noop, sleeping
+The clock says: 53
+noop, sleeping
+The clock says: 54
+addX, adding 21 to regx to result in 34
+The clock says: 56
+addX, adding -15 to regx to result in 19
+The clock says: 58
+noop, sleeping
+The clock says: 59
+noop, sleeping
+The clock says: 60
+that is a time we care about! Adding 19*60=1140 to 420 to get 1560
+addX, adding -3 to regx to result in 16
+The clock says: 62
+addX, adding 9 to regx to result in 25
+The clock says: 64
+addX, adding 1 to regx to result in 26
+The clock says: 66
+addX, adding -3 to regx to result in 23
+The clock says: 68
+addX, adding 8 to regx to result in 31
+The clock says: 70
+addX, adding 1 to regx to result in 32
+The clock says: 72
+addX, adding 5 to regx to result in 37
+The clock says: 74
+noop, sleeping
+The clock says: 75
+noop, sleeping
+The clock says: 76
+noop, sleeping
+The clock says: 77
+noop, sleeping
+The clock says: 78
+noop, sleeping
+The clock says: 79
+addX, adding -36 to regx to result in 1
+The clock says: 81
+noop, sleeping
+The clock says: 82
+addX, adding 1 to regx to result in 2
+The clock says: 84
+addX, adding 7 to regx to result in 9
+The clock says: 86
+noop, sleeping
+The clock says: 87
+noop, sleeping
+The clock says: 88
+noop, sleeping
+The clock says: 89
+addX, adding 2 to regx to result in 11
+The clock says: 91
+addX, adding 6 to regx to result in 17
+The clock says: 93
+noop, sleeping
+The clock says: 94
+noop, sleeping
+The clock says: 95
+noop, sleeping
+The clock says: 96
+noop, sleeping
+The clock says: 97
+noop, sleeping
+The clock says: 98
+addX, adding 1 to regx to result in 18
+The clock says: 100
+that is a time we care about! Adding 18*100=1800 to 1560 to get 3360
+noop, sleeping
+The clock says: 101
+noop, sleeping
+The clock says: 102
+addX, adding 7 to regx to result in 25
+The clock says: 104
+addX, adding 1 to regx to result in 26
+The clock says: 106
+noop, sleeping
+The clock says: 107
+addX, adding -13 to regx to result in 13
+The clock says: 109
+addX, adding 13 to regx to result in 26
+The clock says: 111
+addX, adding 7 to regx to result in 33
+The clock says: 113
+noop, sleeping
+The clock says: 114
+addX, adding 1 to regx to result in 34
+The clock says: 116
+addX, adding -33 to regx to result in 1
+The clock says: 118
+noop, sleeping
+The clock says: 119
+noop, sleeping
+The clock says: 120
+noop, sleeping
+The clock says: 121
+addX, adding 2 to regx to result in 3
+The clock says: 123
+noop, sleeping
+The clock says: 124
+noop, sleeping
+The clock says: 125
+noop, sleeping
+The clock says: 126
+addX, adding 8 to regx to result in 11
+The clock says: 128
+noop, sleeping
+The clock says: 129
+addX, adding -1 to regx to result in 10
+The clock says: 131
+addX, adding 2 to regx to result in 12
+The clock says: 133
+addX, adding 1 to regx to result in 13
+The clock says: 135
+noop, sleeping
+The clock says: 136
+addX, adding 17 to regx to result in 30
+The clock says: 138
+addX, adding -9 to regx to result in 21
+The clock says: 140
+that is a time we care about! Adding 21*140=2940 to 3360 to get 6300
+addX, adding 1 to regx to result in 22
+The clock says: 142
+addX, adding 1 to regx to result in 23
+The clock says: 144
+addX, adding -3 to regx to result in 20
+The clock says: 146
+addX, adding 11 to regx to result in 31
+The clock says: 148
+noop, sleeping
+The clock says: 149
+noop, sleeping
+The clock says: 150
+addX, adding 1 to regx to result in 32
+The clock says: 152
+noop, sleeping
+The clock says: 153
+addX, adding 1 to regx to result in 33
+The clock says: 155
+noop, sleeping
+The clock says: 156
+noop, sleeping
+The clock says: 157
+addX, adding -13 to regx to result in 20
+The clock says: 159
+addX, adding -19 to regx to result in 1
+The clock says: 161
+addX, adding 1 to regx to result in 2
+The clock says: 163
+addX, adding 3 to regx to result in 5
+The clock says: 165
+addX, adding 26 to regx to result in 31
+The clock says: 167
+addX, adding -30 to regx to result in 1
+The clock says: 169
+addX, adding 12 to regx to result in 13
+The clock says: 171
+addX, adding -1 to regx to result in 12
+The clock says: 173
+addX, adding 3 to regx to result in 15
+The clock says: 175
+addX, adding 1 to regx to result in 16
+The clock says: 177
+noop, sleeping
+The clock says: 178
+noop, sleeping
+The clock says: 179
+noop, sleeping
+The clock says: 180
+that is a time we care about! Adding 16*180=2880 to 6300 to get 9180
+addX, adding -9 to regx to result in 7
+The clock says: 182
+addX, adding 18 to regx to result in 25
+The clock says: 184
+addX, adding 1 to regx to result in 26
+The clock says: 186
+addX, adding 2 to regx to result in 28
+The clock says: 188
+noop, sleeping
+The clock says: 189
+noop, sleeping
+The clock says: 190
+addX, adding 9 to regx to result in 37
+The clock says: 192
+noop, sleeping
+The clock says: 193
+noop, sleeping
+The clock says: 194
+noop, sleeping
+The clock says: 195
+addX, adding -1 to regx to result in 36
+The clock says: 197
+addX, adding 2 to regx to result in 38
+The clock says: 199
+addX, adding -37 to regx to result in 1
+The clock says: 201
+addX, adding 1 to regx to result in 2
+The clock says: 203
+addX, adding 3 to regx to result in 5
+The clock says: 205
+noop, sleeping
+The clock says: 206
+addX, adding 15 to regx to result in 20
+The clock says: 208
+addX, adding -21 to regx to result in -1
+The clock says: 210
+addX, adding 22 to regx to result in 21
+The clock says: 212
+addX, adding -6 to regx to result in 15
+The clock says: 214
+addX, adding 1 to regx to result in 16
+The clock says: 216
+noop, sleeping
+The clock says: 217
+addX, adding 2 to regx to result in 18
+The clock says: 219
+addX, adding 1 to regx to result in 19
+during adding we care about the clock! that is a time we care about! Adding 18*219=3942 to 9180 to get 13122
+The clock says: 221
+noop, sleeping
+The clock says: 222
+addX, adding -10 to regx to result in 9
+The clock says: 224
+noop, sleeping
+The clock says: 225
+noop, sleeping
+The clock says: 226
+addX, adding 20 to regx to result in 29
+The clock says: 228
+addX, adding 1 to regx to result in 30
+The clock says: 230
+addX, adding 2 to regx to result in 32
+The clock says: 232
+addX, adding 2 to regx to result in 34
+The clock says: 234
+addX, adding -6 to regx to result in 28
+The clock says: 236
+addX, adding -11 to regx to result in 17
+The clock says: 238
+noop, sleeping
+The clock says: 239
+noop, sleeping
+The clock says: 240
+noop, sleeping
+13122
